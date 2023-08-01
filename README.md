@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Shipe7
 - 👀 I’m interested in Web App development
+- 👀 Developed four php/larvel applications currently at 1000+ registered users 
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Jaavascript
+- 💞️ I’m looking to collaborate on Javascript
 - 📫 How to reach me adesipedavid1@gmail.com
 
 <!---
